@@ -1,0 +1,6 @@
+framework module Pods_YogaExample {
+  umbrella header "Pods-YogaExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
